@@ -24,7 +24,3 @@ Para este projeto, utilizei a arquitetura **MobileNetV2** pré-treinada no datas
 
 ## 📊 Resultados
 O modelo atingiu uma acurácia de validação de aproximadamente 91.08% após 10 épocas. Isso demonstra a eficácia do Transfer Learning, que permite alcançar ótimos resultados com um esforço computacional relativamente baixo.
-
-## 🔗 Link para o Notebook
-Você pode visualizar todo o código e a execução no notebook principal do projeto:
-- [Desafio_TransferLearning_CatsVsDogs.ipynb](https://colab.research.google.com/drive/1pAmirzE45H0xN6W5kEJHlkP9Sp8bfFgA?usp=sharing)
